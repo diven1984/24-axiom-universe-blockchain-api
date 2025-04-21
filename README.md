@@ -53,7 +53,7 @@
 
 ## 📚 API文档（API Documentation）  
 完整接口规范见：  
-[24-axiom-universe-blockchain-api.md](https://github.com/diven1984/24-axiom-universe-blockchain-api/blob/main/24-axiom-universe-blockchain-api.md)  
+https://github.com/diven1984/24-axiom-universe-blockchain-api/blob/main/24-axiom-universe-blockchain-api.md
 涵盖：  
 - 区块操作（查询、高度同步）  
 - 数据提交（文明/发现/成果数据接口）  
@@ -141,7 +141,7 @@ The 24 axioms form four core modules:
 
 ## 📚 API Documentation  
 Full interface specifications in:  
-[24-axiom-universe-blockchain-api.md](https://github.com/your-username/your-repo/blob/main/24-axiom-universe-blockchain-api.md)  
+https://github.com/diven1984/24-axiom-universe-blockchain-api/blob/main/24-axiom-universe-blockchain-api.md 
 Covers:  
 - Block operations (query, height synchronization).  
 - Data submission (civilization/discovery/result interfaces).  
